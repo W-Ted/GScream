@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center"><strong>GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal</strong></h1>
-<h3 align="center">ECCV 2023</h3>
+<h3 align="center">ECCV 2024</h3>
 
 <p align="center">
     <a href="https://w-ted.github.io/">Yuxin Wang</a><sup>1</sup>,</span>
