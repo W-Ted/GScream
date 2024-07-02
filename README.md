@@ -6,7 +6,7 @@
     <a href="https://w-ted.github.io/">Yuxin Wang</a><sup>1</sup>,</span>
     <a href="https://wuqianyi.top/">Qianyi Wu</a><sup>2</sup>,
     <a href="http://www.cad.zju.edu.cn/home/gfzhang/">Guofeng Zhang</a><sup>3</sup>,
-    <a href="https://www.danxurgb.net/">Dan Xu</a><sup>1</sup>
+    <a href="https://www.danxurgb.net/">Dan Xu</a><sup>1✉️</sup>
     <br>
         <sup>1</sup>HKUST,
         <sup>2</sup>Monash University,
