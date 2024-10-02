@@ -1,0 +1,7 @@
+# ninja log v5
+3	14651	1705390532498320439	/export/ywangom/research/nerf/gaussian_splatting/GSrec/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	31497164d34908cd
+2	23072	1705390540788302454	/export/ywangom/research/nerf/gaussian_splatting/GSrec/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	3a16c552cdc319de
+3	49504	1705390567348244834	/export/ywangom/research/nerf/gaussian_splatting/GSrec/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	838e0f249591cfe0
+72	19569	1727827484944848096	/export/ywangom/research/nerf/gaussian_splatting/GScream/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	fab2c383aeea73be
+72	103196	1727827568375711047	/export/ywangom/research/nerf/gaussian_splatting/GScream/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	590d75f04334a464
+72	150313	1727827615679633342	/export/ywangom/research/nerf/gaussian_splatting/GScream/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	141cdc2e4f3698d7
