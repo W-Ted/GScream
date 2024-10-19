@@ -33,7 +33,7 @@ cd submodules/diff-gaussian-rasterization/ && pip install -e .
 cd ../simple-knn && pip install -e .
 cd ../..
 ```
-Since we used RTX 3090, in the [setup.py](https://github.com/W-Ted/GScream/blob/e7cc71bf3e878d02d15b524fdb44f038eba59a2a/submodules/diff-gaussian-rasterization/setup.py#L29), we hardcoded the gencode=arch with 'compute_86' and 'sm_86' when compiling 'diff-gaussian-rasterization'. For Tesla V100, you may try changing it to 'compute_70' and 'sm_70'. [issue#4](https://github.com/W-Ted/GScream/issues/4)
+Since we used RTX 3090, in the [setup.py](https://github.com/W-Ted/GScream/blob/e7cc71bf3e878d02d15b524fdb44f038eba59a2a/submodules/diff-gaussian-rasterization/setup.py#L29), we hardcoded the gencode=arch with 'compute_86' and 'sm_86' when compiling 'diff-gaussian-rasterization'. For Tesla V100, you may try changing it to 'compute_70' and 'sm_70' before compiling. [issue#4](https://github.com/W-Ted/GScream/issues/4)
 
 ## Dataset
 
