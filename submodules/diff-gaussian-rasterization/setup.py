@@ -26,7 +26,7 @@ setup(
             "cuda_rasterizer/backward.cu",
             "rasterize_points.cu",
             "ext.cpp"],
-            extra_compile_args={"nvcc": ["-I" + os.path.join(os.path.dirname(os.path.abspath(__file__)), "third_party/glm/"), '-gencode=arch=compute_86,code=compute_86', '-gencode=arch=compute_86,code=sm_86', '-Xcompiler=-fno-gnu-unique']})
+            extra_compile_args={"nvcc": ["-I" + os.path.join(os.path.dirname(os.path.abspath(__file__)), "third_party/glm/"), '-gencode=arch=compute_70,code=compute_70', '-gencode=arch=compute_70,code=sm_70', '-Xcompiler=-fno-gnu-unique']})
         ],
     cmdclass={
         'build_ext': BuildExtension
